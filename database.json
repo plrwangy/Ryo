@@ -1,0 +1,91 @@
+{
+  "users": {
+    "6285183136603@s.whatsapp.net": {
+      "banned": false,
+      "limit": 15,
+      "daily": false,
+      "balance": 0,
+      "exp": 0,
+      "level": 0,
+      "registered": false,
+      "premium": false,
+      "hit": 41,
+      "lastclaim": 0,
+      "expired": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285179836603@s.whatsapp.net": {
+      "name": "YASSxOFC",
+      "banned": false,
+      "limit": 9,
+      "daily": false,
+      "balance": 0,
+      "exp": 0,
+      "level": 0,
+      "registered": false,
+      "premium": false,
+      "hit": 19,
+      "lastclaim": 0,
+      "expired": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "120363302865191524@newsletter": {
+      "banned": false,
+      "limit": 15,
+      "daily": false,
+      "balance": 0,
+      "exp": 0,
+      "level": 0,
+      "registered": false,
+      "premium": false,
+      "hit": 1,
+      "lastclaim": 0,
+      "expired": 0,
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6285183136603@s.whatsapp.net": {
+      "nsfw": false,
+      "banned": false,
+      "autojpm": false,
+      "antilink": false,
+      "mute": false,
+      "antibot": false,
+      "simichat": false,
+      "autodl": false,
+      "kayy": false
+    },
+    "120363358523213482@g.us": {
+      "nsfw": false,
+      "banned": false,
+      "autojpm": false,
+      "antilink": false,
+      "mute": false,
+      "antibot": false,
+      "simichat": false,
+      "autodl": false,
+      "kayy": false
+    },
+    "120363302865191524@newsletter": {
+      "nsfw": false,
+      "banned": false,
+      "autojpm": false,
+      "antilink": false,
+      "mute": false,
+      "antibot": false,
+      "simichat": false,
+      "autodl": false,
+      "kayy": false
+    }
+  },
+  "settings": {
+    "autobio": false,
+    "autoread": false,
+    "game": false,
+    "hitstat": 61
+  }
+}
